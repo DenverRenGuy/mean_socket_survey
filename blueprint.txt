@@ -1,0 +1,8 @@
+Import need modules
+Setup server and begin listening
+Setup the sockets and attach to server
+Render the initial index view
+
+On the View, setup form, set query function to catch submit button
+pass to server via Sockets
+receive server socket emit

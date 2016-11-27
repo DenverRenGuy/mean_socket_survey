@@ -1,0 +1,4 @@
+Assignment at:
+github.com/DenverRenGuy/mean_socket_survey
+
+package.json will need to have install run

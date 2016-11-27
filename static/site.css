@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+fieldset{
+    padding: 1em;
+    font: 80%;
+    border: 1px solid blue;
+}
+
+legend{
+    padding: .3em 1em;
+    border: 1px solid blue;
+    color: blue;
+    text-align: right;
+    font-size: 75%;
+}
+
+input{
+    margin: .5em;
+}
+
+p{
+    margin-top: .3em;
+}
+
+input[type=submit]{
+    padding: 1em;
+    font: 110%;
+}
+
+.result-box{
+    padding: 1em;
+    border: 1px solid blue;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.server-message{
+    margin: 1em auto;
+    width: 50%;
+    border: 2px solid green;
+}
+
+.hidden{
+    visibility: hidden;
+}
